@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CODEZPC
+- 👀 I’m interested in python3
+- 🌱 I’m currently learning tkinter
+- 📫 How to reach me:zpcpy@outlook.com
